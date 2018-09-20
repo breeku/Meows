@@ -1,0 +1,22 @@
+html {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+body {
+    background-image:
+        linear-gradient(120deg, rgba(161, 196, 253, 0.2) 0%, rgba(194, 233, 251, 1.0) 100%),
+        url("/images/topography.png");
+}
+.title, .loading {
+    text-align: center;
+}
+.meow-form {
+}
+.meowCards {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.newMeow {
+    text-align: center;
+}
