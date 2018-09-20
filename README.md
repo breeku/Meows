@@ -2,11 +2,6 @@
 
 ## [Demo](https://client-hrbispgwlm.now.sh/)
 
-Todo:
-- [] Make cards responsive
-- [] Pictures in posts
-- [] User authentication
-- [] Post comments
-- [] Realtime updates
+### Vue.js version @ https://github.com/breeku/Meows-Vue.js
 
 > Created with HTML/CSS/Javascript, Node.js, Express and MongoDB
